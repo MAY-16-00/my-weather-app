@@ -1,0 +1,142 @@
+h1 {
+  margin: 50px;
+  font-weight: bold;
+}
+.cloud-sun1 {
+  color: deepskyblue;
+  font-size: 100px;
+}
+.cloud-sun1:hover {
+  color: cornsilk;
+  cursor: pointer;
+  font-size: 150px;
+}
+.sun1 {
+  color: yellow;
+  font-size: 100px;
+}
+.sun1:hover {
+  color: darkorange;
+  font-size: 150px;
+  cursor: pointer;
+}
+.sun-rain {
+  color: blue;
+  font-size: 100px;
+}
+.sun-rain:hover {
+  color: blueviolet;
+  font-size: 150px;
+  cursor: pointer;
+}
+.cloud-rain {
+  color: deepskyblue;
+  font-size: 100px;
+}
+.cloud-rain:hover {
+  color: aqua;
+  font-size: 150px;
+  cursor: pointer;
+}
+.cloud-bolt1 {
+  color: darkblue;
+  font-size: 100px;
+}
+.cloud-bolt1:hover {
+  color: chartreuse;
+  font-size: 150px;
+  cursor: pointer;
+}
+.form-container {
+  margin: 50px;
+}
+.btn1 {
+  border: 1px solid black;
+  width: 70%;
+  border-radius: 15px;
+  padding: 10px;
+}
+.form-container button {
+  border: 1px solid black;
+  width: 40px;
+  padding: 5px;
+}
+#current-location {
+  width: 10%;
+  padding: 5px;
+  font-weight: bold;
+  background-color: lightgreen;
+}
+h2 {
+  position: relative;
+  top: -200px;
+  margin: 70px;
+  font-size: normal;
+}
+.fa-cloud {
+  position: relative;
+  left: 700px;
+  font-size: 150px;
+  color: whitesmoke;
+}
+.fa-cloud:hover {
+  color: deepskyblue;
+  cursor: pointer;
+}
+.degree,
+.units {
+  position: relative;
+  left: 800px;
+  font-size: 80px;
+}
+.units {
+  position: relative;
+  top: -34px;
+  font-size: 30px;
+}
+h3 {
+  position: relative;
+  top: -250px;
+  margin: 90px;
+  font-size: 60px;
+  font-style: bold;
+}
+.text {
+  position: relative;
+  top: -300px;
+  margin: 60px;
+  font-size: 25px;
+}
+.cloud-sun2 {
+  color: blue;
+  font-size: 30px;
+}
+.sun2 {
+  color: rgb(247, 247, 72);
+  font-size: 30px;
+}
+.shower {
+  color: dodgerblue;
+  font-size: 30px;
+}
+.cloud-bolt2 {
+  color: darkblue;
+  font-size: 30px;
+}
+.cloud-sun3 {
+  color: blue;
+  font-size: 30px;
+}
+.container {
+  position: relative;
+  left: 100px;
+}
+.temperature {
+  position: relative;
+  left: 100px;
+  font-size: 50px;
+}
+.container {
+  position: relative;
+  top: -300px;
+}
